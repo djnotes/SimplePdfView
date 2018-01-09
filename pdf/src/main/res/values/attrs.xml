@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PDF">
+        <attr name="background" format="integer"/>
+        <attr name="contentDescription" format="string"/>
+    </declare-styleable>
+</resources>
